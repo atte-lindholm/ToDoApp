@@ -1,0 +1,1 @@
+This app was made by Atte Lindholm and Jesse Kouhia.
